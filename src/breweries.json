@@ -1,0 +1,87 @@
+[{
+  "name": "Duggan's Brewery Parkdale",
+  "contact": "Chris Duggan <chris@duggansbrewery.com>",
+  "ordering": {
+    "info": "Order by email",
+    "minimum": "3 cases",
+    "shipping": "?"
+  },
+  "beers": []
+}, {
+  "name": "The Flying Monkeys",
+  "contact": "Casy <casy@theflymonkeys.ca> | +1(705) 721-8989",
+  "ordering": {
+    "info": "Order by email",
+    "minimum": "3 case",
+    "shipping": "Place order by Monday at 3 to get free delivery"
+  },
+  "beers": [
+    "Smashbomb Atomic IPA",
+    "Hoptical Illusion",
+    "Genius Of Suburbia",
+    "12 Minutes To Destiny Hibiscus Pale Lager"
+  ]
+}, {
+  "name": "Junction Craft Brewing",
+  "contact": "Laura <laura@junctioncraft.com> | +1(416) 766-1616",
+  "ordering": {
+    "info": "Call, talk to Laura",
+    "minimum": "2 case minimum order",
+    "shipping": "No cost for delivery",
+    "notes": "They don’t take Am Ex (!)"
+  },
+  "beers": [
+    "Conductor’s Craft Ale",
+    "Brakeman’s Session Ale"
+  ]
+}, {
+  "name": "Sawdust City Brewing Co.",
+  "contact": "Sean Norris <sean@sawdustcitybeer.com>",
+  "ordering": {
+    "info": "Text orders to +1(416) 818-6089",
+    "minimum": "3 cases",
+    "shipping": "Place order Monday morning to get it by Wednesday, free delivery"
+  },
+  "beers": [
+    "Lone Pine IPA",
+    "Skinny Dippin’ Stout",
+    "Gateway Kölsch",
+    "7 Weeks of Staying Up All Night"
+  ]
+}, {
+  "name": "All or Nothing Brewhouse",
+  "contact": "Matt Gibson <matt@underdogsbrewhouse.com>",
+  "ordering": {
+    "info": "Order by email",
+    "minimum": "2 cases",
+    "shipping": "Free delivery"
+  },
+  "beers": [
+    "All Or Nothing Hopfenweisse"
+  ]
+}, {
+  "name": "Great Lakes Brewery",
+  "contact": "Holly J <holly.j@greatlakesbeer.com>",
+  "ordering": {
+    "info": "Order by email",
+    "minimum": "2 cases",
+    "shipping": "Free delivery"
+    },
+  "beers": [
+    "Blonde Lager",
+    "Pompous Ass English Pale Ale",
+    "Octopus Wants to Fight Ipa",
+    "Audrey Hopburn Belgian Ipa"
+  ]
+}]
+
+
+
+
+
+
+
+
+
+
+

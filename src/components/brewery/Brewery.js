@@ -7,7 +7,7 @@ const componentColor = {
   error: 'bg-red white',
 };
 
-const Alert = ({ children, isVisible, status = 'info', className = '', style = {}}) => {
+const Brewery = ({ children, isVisible, status = 'info', className = '', style = {}}) => {
   const visibleClass = isVisible ? 'block' : 'hide';
 
   return (
@@ -23,4 +23,4 @@ const styles = {
   base: {},
 };
 
-export default Alert;
+export default Brewery;

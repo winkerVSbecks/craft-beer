@@ -1,11 +1,12 @@
 import { INCREMENT_COUNTER, DECREMENT_COUNTER, LOGOUT_USER } from '../constants';
 import { fromJS } from 'immutable';
+import breweries from '../breweries.json';
 
 const INITIAL_STATE = fromJS({
-  count: 0,
+  breweries,
 });
 
-function counterReducer(state = INITIAL_STATE, action = {}) {
+function beerReducer(state = INITIAL_STATE, action = {}) {
   switch (action.type) {
 
   case INCREMENT_COUNTER:
@@ -22,4 +23,4 @@ function counterReducer(state = INITIAL_STATE, action = {}) {
   }
 }
 
-export default counterReducer;
+export default beerReducer;
